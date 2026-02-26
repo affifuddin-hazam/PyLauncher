@@ -2,6 +2,9 @@
 
 A lightweight Python script manager and launcher with a modern dark-themed GUI, built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter).
 
+<img width="1102" height="677" alt="image" src="https://github.com/user-attachments/assets/f48dabb0-10e1-456f-9bc4-7441bec42bb0" />
+
+
 ## Background
 
 PyLauncher started as a personal tool to simplify running and managing multiple Python monitoring scripts. Over time it became a team utility, originally written in VB.NET. This version is a complete rewrite in Python — designed for open-source use, with the internal download functionality removed and the focus kept on local script management.
